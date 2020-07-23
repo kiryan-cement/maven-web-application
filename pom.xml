@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1</version>
+	<version>0.0.1-snapshot</version>
 	
 	<name>maven-web-application</name>
 
@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.44.242:8081/repository/kiran-dev-snapshot//</url>
+	      <url>http://13.232.44.242:8081/repository/kiran-dev-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
